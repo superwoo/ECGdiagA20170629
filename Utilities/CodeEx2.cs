@@ -42,7 +42,7 @@ public struct Code
 /// <summary>
 /// Linked list node for code management
 /// </summary>
-internal class CodeListNode
+public class CodeListNode
 {
     public Code Code { get; set; }
     public CodeListNode? Link { get; set; }
