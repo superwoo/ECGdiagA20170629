@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <LangVersion>12.0</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>ECGDiag</RootNamespace>
+    <AssemblyName>ECGDiag</AssemblyName>
+    <Version>1.0.0</Version>
+    <Authors>VH Medical</Authors>
+    <Description>ECG Diagnostic Library for .NET 10 - Converted from C++</Description>
+  </PropertyGroup>
+
+</Project>
